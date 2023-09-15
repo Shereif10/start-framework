@@ -1,0 +1,33 @@
+.contactTitle{
+    font-size: 40px;
+    font-weight: 700;
+    color: #2C3E50;
+}
+
+.line{
+    width: 80px;
+    height: 4px;
+    background-color: #2C3E50;
+}
+
+.icon{
+    color: #2C3E50;
+}
+
+.input{
+    border: none;
+    border-bottom: 1px solid gray;
+    padding: 16px 12px;
+}
+
+.container{
+    width: 50% !important;
+    margin: auto !important;
+}
+
+.send{
+    text-align: center !important;
+    display: inline-block !important;
+    vertical-align: middle !important;
+    background-color: #1abc9c !important;
+}

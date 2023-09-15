@@ -1,0 +1,22 @@
+/* .footerIcons{
+    font-size: 16px;
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+} */
+
+.footerTop{
+    background-color: #2C3E50;
+    padding: 40px;
+}
+
+.footerBottom{
+    background-color: #1A252F;
+    color: white;
+}
+
+.fontSize{
+    font-size: 28px;
+}

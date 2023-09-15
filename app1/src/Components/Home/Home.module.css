@@ -1,0 +1,23 @@
+.img{
+    width: 250px;
+}
+
+.homeSection{
+    background-color: #1ABC9C;
+z-index: 9999999999;
+/* position: relative; */
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+.homeTitle{
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+}
+
+.line{
+    width: 80px;
+    height: 4px;
+    background-color: white;
+}
